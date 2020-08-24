@@ -1,0 +1,17 @@
+[
+  {
+    "id": 101,
+    "name": "Rahul Batra",
+    "CGPA": 8.375
+  },
+  {
+    "id": 102,
+    "name": "Amit Shah",
+    "CGPA": 8.5
+  },
+  {
+    "id": 103,
+    "name": "meri Shah",
+    "CGPA": 8.5
+  }
+]

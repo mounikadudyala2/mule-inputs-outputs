@@ -1,0 +1,14 @@
+{
+  "Semesters": [
+    {
+      "SemesterID": "7",
+      "count": 2,
+      "AvgMarks": 9
+    },
+    {
+      "SemesterID": "6",
+      "count": 2,
+      "AvgMarks": 6.5
+    }
+  ]
+}

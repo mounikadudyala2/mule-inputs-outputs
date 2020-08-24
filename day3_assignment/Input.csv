@@ -1,0 +1,7 @@
+EmployeeID,EmployeeName,Country,RecordType
+101,Rahul Batra,US,INSERT
+102,Amit Shah,US,UPDATE
+103,Rahul G,US,TERMINATE
+104,S Tendulkar,IN,INSERT
+105,Sonia G,US,TERMINATE
+106,N Modi,GB,TERMINATE

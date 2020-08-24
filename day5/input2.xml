@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employees>
+   <employee id="111">
+      <firstname>Sachin</firstname>
+      <lastname>Tendulkar</lastname>
+      <designation>Player</designation>
+      <department>
+         <name>Cricket</name>
+      </department>
+      <country>India</country>
+      <phone>1234</phone>
+      <networth>$12.3423</networth>
+   </employee>
+   <employee id="222">
+      <firstname>Rahul</firstname>
+      <lastname>Dravid</lastname>
+      <designation>Player</designation>
+      <department>
+         <name>Cricket</name>
+      </department>
+      <country>India</country>
+      <networth>$21.323</networth>
+   </employee>
+   <employee id="333">
+      <firstname>Viswanathan</firstname>
+      <lastname>Anand</lastname>
+      <designation>Player</designation>
+      <department>
+         <name>Chess</name>
+      </department>
+      <country>India</country>
+      <networth>$21</networth>
+   </employee>
+   <employee id="888">
+      <firstname>Magnus</firstname>
+      <lastname>Carlsen</lastname>
+      <designation>Player</designation>
+      <department>
+         <name>Chess</name>
+      </department>
+      <country>Norway</country>
+      <networth>$57.4563</networth>
+   </employee>
+   <employee id="444">
+      <firstname>Elon</firstname>
+      <lastname>Musk</lastname>
+      <designation>CEO</designation>
+      <department>
+         <name>Manufacturing</name>
+      </department>
+      <country>South Africa</country>
+      <networth>$21.0</networth>
+   </employee>
+   <employee id="555">
+      <firstname>Satya</firstname>
+      <lastname>Nadella</lastname>
+      <designation>CEO</designation>
+      <department>
+         <name>Software</name>
+      </department>
+      <country>India</country>
+      <phone>345</phone>
+      <networth>$34.98</networth>
+   </employee>
+   <employee id="666">
+      <firstname>Sundar</firstname>
+      <lastname>Pichai</lastname>
+      <designation>CEO</designation>
+      <department>
+         <name>Software</name>
+      </department>
+      <country>India</country>
+      <networth>$32</networth>
+   </employee>
+   <employee id="777">
+      <firstname>Marissa</firstname>
+      <lastname>Mayer</lastname>
+      <designation>CEO</designation>
+      <department>
+         <name>Software</name>
+      </department>
+      <country>America</country>
+      <networth>$21.323</networth>
+   </employee>
+</employees>

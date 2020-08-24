@@ -1,0 +1,9 @@
+  
+  {
+    "operation": "shift",
+    "spec": {
+      "portfolio": {
+        "stock": "stock"
+      }
+    }
+  }

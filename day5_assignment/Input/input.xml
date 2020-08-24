@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employees>
+   <department>
+      <name>Cricket</name>
+      <employees>
+         <employee id="111">
+            <firstname>Sachin</firstname>
+            <lastname>Tendulkar</lastname>
+            <designation>Player</designation>
+         </employee>
+         <employee id="222">
+            <firstname>Rahul</firstname>
+            <lastname>Dravid</lastname>
+            <designation>Player</designation>
+         </employee>
+      </employees>
+   </department>
+   <department>
+      <name>Chess</name>
+      <employees>
+         <employee id="333">
+            <firstname>Viswanathan</firstname>
+            <lastname>Anand</lastname>
+            <designation>Player</designation>
+         </employee>
+         <employee id="888">
+            <firstname>Magnus</firstname>
+            <lastname>Carlsen</lastname>
+            <designation>Player</designation>
+         </employee>
+      </employees>
+   </department>
+   <department>
+      <name>Manufacturing</name>
+      <employees>
+         <employee id="444">
+            <firstname>Elon</firstname>
+            <lastname>Musk</lastname>
+            <designation>CEO</designation>
+         </employee>
+      </employees>
+   </department>
+   <department>
+      <name>Software</name>
+      <employees>
+         <employee id="555">
+            <firstname>Satya</firstname>
+            <lastname>Nadella</lastname>
+            <designation>CEO</designation>
+         </employee>
+         <employee id="666">
+            <firstname>Sundar</firstname>
+            <lastname>Pichai</lastname>
+            <designation>CEO</designation>
+         </employee>
+         <employee id="777">
+            <firstname>Marissa</firstname>
+            <lastname>Mayer</lastname>
+            <designation>CEO</designation>
+         </employee>
+      </employees>
+   </department>
+</employees>

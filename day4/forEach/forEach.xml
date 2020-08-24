@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<ArchiveFiles>
+    <FileSource>/Users/mounikad/Desktop/mulesoft/day4/forEach/Input</FileSource>
+    <FileTarget>/Users/mounikad/Desktop/mulesoft/day4/forEach/Archive</FileTarget>
+    <FileNames>
+        <FileName>file1.txt</FileName>
+        <FileName>file2.txt</FileName>
+    </FileNames>
+</ArchiveFiles>

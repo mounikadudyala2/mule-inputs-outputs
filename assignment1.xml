@@ -1,0 +1,33 @@
+<Items>
+<Item id="1">
+ <ItemCode>Grtry6</ItemCode>
+ <ItemName>Mouse</ItemName>
+ <ItemDescription>Wirelsssmouse</ItemDescription>
+ <Price>$3.00</Price>
+ <ExportValue></ExportValue>
+ <VendorID>34567</VendorID>
+</Item>
+<Item id="2">
+ <ItemCode>eret6</ItemCode>
+ <ItemName>keyboard</ItemName>
+ <ItemDescription>Multi lingual keyboard</ItemDescription>
+ <Price>$5.00</Price>
+ <ExportValue></ExportValue>
+</Item>
+<Item id="3">
+ <ItemCode>maghf</ItemCode>
+ <ItemName>Connector</ItemName>
+ <ItemDescription>Multi Connector </ItemDescription>
+ <Price>$7.00</Price>
+ <ExportValue></ExportValue>
+  <VendorID>1234</VendorID>
+</Item>
+<Item id="4">
+ <ItemCode>gmal</ItemCode>
+ <ItemName>Plug</ItemName>
+ <ItemDescription>Multi Plug </ItemDescription>
+ <Price>$2.00</Price>
+ <ExportValue></ExportValue>
+</Item>
+</Items>
+

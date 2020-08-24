@@ -1,0 +1,6 @@
+
+employeeId,name,salary,location
+101,vishal,25000,hyd
+102,kamal,30000,chennai
+103,mahi,25000,banglore
+104,arun,40000,hyd
